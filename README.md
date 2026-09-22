@@ -17,5 +17,3 @@ I first sent this as 7.7 with scope changed, and I wrote the range as everything
 I tested a local `error311/filerise-docker` container, v3.24.0 (commit 765eccc) and then v3.25.0. Nothing else.
 
 Reported privately on 31 July 2026. The vendor published the advisory on 12 August 2026.
-
-L0stHeart
